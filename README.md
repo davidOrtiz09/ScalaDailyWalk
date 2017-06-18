@@ -1,4 +1,5 @@
 **Scala Daily Walk**
+
 Simple solution of the daily walk concurrency problem using only Scala Futures.
 
  `Every morning, Alice and Bob go for a walk, and being creatures of habit, they follow the same routine every day.`
