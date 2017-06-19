@@ -9,7 +9,7 @@ Simple solution of the daily walk concurrency problem using only Scala Futures.
  `Then they leave the house together and lock the door, before the alarm has finished its countdown.`
  
  
- Here is sample input of the program : 
+ Here is sample output of the program : 
  
 ` Let's go for a walk!`   
  `Bob started getting ready`  
